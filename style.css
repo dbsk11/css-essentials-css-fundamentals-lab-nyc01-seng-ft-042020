@@ -39,5 +39,7 @@ figcaption {
 }
 
 div{
-  background:#008080
+  background:#008080;
+  text-align:center;
+  width:25%
 }

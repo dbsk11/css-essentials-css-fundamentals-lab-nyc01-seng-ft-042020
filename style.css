@@ -17,8 +17,8 @@ img{
 nav{
   text-align: center
 }
-a {
-  text-align:center;/*fix*/
+
+nav a {
   padding:10px;
   background:#999999
 }
